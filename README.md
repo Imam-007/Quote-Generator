@@ -1,7 +1,6 @@
 # Quote-Generator
-<hr>
-<h2>This Quote Generator Web Application is a platform designed to provide users with a diverse range of quotes for inspiration, motivation, and reflection.</h2><hr>
-<h2>With just a few clicks, you can browse through a vast collection of quotes from famous authors, thought leaders, and other inspiring figures.</h2><hr>
+<h2>This Quote Generator Web Application is a platform designed to provide users with a diverse range of quotes for inspiration, motivation, and reflection.</h2>
+<h2>With just a few clicks, you can browse through a vast collection of quotes from famous authors, thought leaders, and other inspiring figures.</h2>
 <h2>Technologies used :</h2> <br>
 1.HTML<br>
 2.CSS<br>
