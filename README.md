@@ -4,6 +4,6 @@
 <h2>Technologies used :</h2> <br>
 1.HTML<br>
 2.CSS<br>
-3.JavaScript<hr>
-<h2></h2>API used :</h2> <hr>
+3.JavaScript
+<h2></h2>API used :</h2>
 Quote Garden API - https://quote-garden.onrender.com/api/v3/quotes
